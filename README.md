@@ -67,7 +67,7 @@
 
       result.textContent = "جاري الإرسال...";
 
-      fetch("https://deep2-0z0k.onrender.com/activate", {
+      fetch("https://deep2-0z0k.onrender.com/use", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
